@@ -1,12 +1,12 @@
 source,target,value
-Applications,No response,73
+Applications,No response,74
 Applications,Rejection notice,59
-Applications,Recruiter call,18
+Applications,Recruiter call,17
 Recruiter call,Wrong role/fit/WLB/pay,5
-Recruiter call,Tech screen,13
+Recruiter call,Tech screen,12
 Tech screen,Hiring freeze,3
 Tech screen,Failed,2
-Tech screen,On-site/Final,8
+Tech screen,On-site/Final,7
 On-site/Final,Reject,4
 On-site/Final,Offer,0
-On-site/Final,Pending,4
+On-site/Final,Pending,3
